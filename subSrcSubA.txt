@@ -1,2 +1,3 @@
 subproject's source a
 modify after lint to mainpj
+mod @ subpj
